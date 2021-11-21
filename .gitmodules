@@ -1,0 +1,4 @@
+[submodule "Externals/SFML"]
+	path = Externals/SFML
+	url = https://github.com/kennetha123/SFML.git
+	branch = 2.5.x
